@@ -81,16 +81,39 @@ strong{
 #depoimentos{
     margin: 1%;
     opacity: 0%;
+   
+   
+}
+
+.titulo_depoimentos{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
 }
 
 #servicos{
     margin: 1%;
     opacity: 0%;
+    
+}
+
+.titulo_servicos{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
 }
 
 #biografia{
-    margin: 3%;
+    margin: 1%;
     opacity: 0%;
+    
+}
+
+.titulo_biografia{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
+    margin: 0% 1% 5% 1%;
 }
 
  #depoimentos2{
@@ -125,10 +148,10 @@ strong{
 
  .caixa_biografia{
     background-color: rgb(249, 251, 252);
-    width: 100%;
+    width: 90%;
    
     background-color: rgb(249, 251, 252);
-    padding: 1%;
+    padding: 5%;
     font-size: 1.5vw;
     margin: 5%;
     text-align: center;
@@ -187,7 +210,7 @@ strong{
     margin: 5%;
  }
 
- #banner_final{
+ #contato{
     position: relative;
     width: 100%;
     margin-top: 7%;
