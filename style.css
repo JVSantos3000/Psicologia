@@ -1,0 +1,259 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar-expand-lg{
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    
+
+}
+
+
+
+.logo{
+    width: 10%;
+}
+#banner_inicial{
+    position: relative;
+    width: 100%;
+
+}
+
+.container-fluid{
+    background-color:  #387d69;
+}
+
+.navbar-collapse{
+    margin: 0% 0% 0% 40%;
+
+}
+
+strong{
+    color:  rgb(80, 179, 151);
+    text-shadow: 2px 2px rgb(61, 130, 110);
+}
+
+.foto_cliente{
+    width: 100%;
+    
+}
+ .titulo_inicial{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    
+   
+   
+    font-size: 5vw;
+
+ }
+
+ .texto_inicial{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    font-size: 2vw;
+    
+
+ }
+
+ .call_to_action{
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    font-size: 2vw;
+    width: 30%;
+    background-color:  rgb(80, 179, 151);
+    color: rgb(221, 231, 239);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    padding: 1%;
+ }
+
+ 
+ 
+#depoimentos{
+    margin: 3%;
+    opacity: 0%;
+   
+   
+}
+
+.titulo_depoimentos{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
+}
+
+#servicos{
+    margin: 3%;
+    opacity: 0%;
+    
+}
+
+.titulo_servicos{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
+}
+
+#biografia{
+    margin: 3%;
+    opacity: 0%;
+    
+}
+
+.titulo_biografia{
+    text-align: center;
+    color: #8e3b52;
+    font-size: 3vw;
+    margin: 0% 1% 5% 1%;
+}
+
+ #depoimentos2{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 2%;
+    padding: 5% 2% 1% 5%;
+ }
+
+ .text_depoimentos{
+
+    width: auto;
+    height: auto;
+    background-color: rgb(80, 179, 151);
+    text-align: center;
+    margin: 2%;
+    padding: 5%;
+ }
+
+ .text_depoimentos p{
+    font-size: 1.5vw;
+ }
+
+
+ #biografia2{
+    background-color: rgb(80, 179, 151);
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 2%;
+ }
+
+ .caixa_biografia{
+    background-color: rgb(249, 251, 252);
+    width: 90%;
+   
+    background-color: rgb(249, 251, 252);
+    padding: 5%;
+    font-size: 1.5vw;
+    margin: 5%;
+    text-align: center;
+ }
+
+ 
+
+ .foto_biografia{
+    max-width: 90%;
+    height: 90%;
+    margin: 5%;
+    
+ }
+
+
+ #servicos2{
+   
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 1%;
+    padding: 2%;
+ }
+
+ .caixa_servicos{
+  
+    width: 100%;
+   
+    background-color:rgb(80, 179, 151);
+    padding: 1%;
+    font-size: 1.5vw;
+    margin: 10% 1% 7% 1%;
+    text-align: center;
+    padding: 5%;
+ }
+
+ 
+
+ .foto_servicos{
+    max-width: 90%;
+    height: 90%;
+    margin: 5%;
+    
+ }
+
+ .call_to_action2{
+    
+    font-size: 2vw;
+    width: 30%;
+    background-color:   rgb(221, 231, 239);
+    color: #51b397;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    padding: 2%;
+    margin: 5%;
+ }
+
+ #contato{
+    position: relative;
+    width: 100%;
+    margin-top: 7%;
+
+}
+
+.call_to_action3{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 2vw;
+    width: 30%;
+    background-color:  rgb(80, 179, 151);
+    color: rgb(221, 231, 239);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    padding: 1%;
+    
+ }
+
+ #rodape{
+    width: 100%;
+    background-color: #387d69;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10%;
+    padding: 2%;
+}
+
+.text_rodape{
+    font-size: 1.5vw;
+}
+
+#Redes_sociais{
+    margin: 5% 0% 0% 40%;
+}
+
+
+#Imagens_Redes_sociais{
+    width: 25%;
+    
+}
+
+
